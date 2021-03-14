@@ -1,9 +1,16 @@
 ## Hi, I'm Tanner 👋
 
 <a href="https://www.linkedin.com/in/tannman/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://angel.co/u/tanner-schmutte"><img src="https://img.shields.io/badge/-AngelList-000000?&style=for-the-badge&logo=AngelList&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tannerschmutte@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-### Toolbox
+
+- 🛠  Currently working on an app that connects tennis players via public courts, [40Love](https://github.com/tanner-schmutte/40Love)
+- 🎾  Former tennis coach, avid player
+- 🧮  Math major
+- 🤝  Always looking to collaborate with other awesome developers!
+
+#### Toolbelt
 
 
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /></a>

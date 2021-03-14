@@ -8,6 +8,7 @@
 - 🛠  Currently working on an app that connects tennis players via public courts, [40Love](https://github.com/tanner-schmutte/40Love)
 - 🎾  Former tennis coach, avid player
 - 🧮  Math major
+- 🌽 🍺
 - 🤝  Always looking to collaborate with other awesome developers!
 
 #### Toolbelt

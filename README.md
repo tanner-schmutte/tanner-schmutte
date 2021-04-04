@@ -9,7 +9,7 @@
 - 🎾 Former tennis coach, avid player
 - ⛳️ Getting into golf lately
 - 🧮  Math major
-- 🥾🏕 Bootcamp grad
+- 🥾🏕 Coding bootcamp grad
 - 🤝 Looking for a Software Engineering position
 
 #### Toolbelt

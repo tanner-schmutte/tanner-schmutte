@@ -8,9 +8,10 @@
 - 🛠 Currently working on an app that connects tennis players via public courts, [40Love](https://github.com/tanner-schmutte/40Love)
 - 🎾 Former tennis coach, avid player
 - ⛳️ Getting into golf lately
-- 🧮  Math major
-- 🥾🏕 Coding bootcamp grad
-- 🤝 Looking for a Software Engineering position
+- 🧮  Mathematical Analytics major
+- 🥾🏕 Full stack bootcamp grad
+- 🔙 Experienced backend engineer
+- 🤝 Looking for a Full Stack Engineer position
 
 #### Toolbelt
 

@@ -5,13 +5,11 @@
 <a href="mailto:tannerschmutte@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 
-- 🛠 Currently working on an app that connects tennis players via public courts, [40Love](https://github.com/tanner-schmutte/40Love)
-- 🎾 Former tennis coach, avid player
-- ⛳️ Getting into golf lately
-- 🧮  Mathematical Analytics major
-- 🥾🏕 Full stack bootcamp grad
+- 🛠 Currently working on an app that connects tennis players via public courts
 - 🔙 Experienced backend engineer
-- 🤝 Looking for a Full Stack Engineer position
+- 🎾 Former tennis coach, avid player
+- 🧮 B.S. Mathematical Analytics & Operations Research
+- 🤝 Looking for a new role
 
 #### Toolbelt
 

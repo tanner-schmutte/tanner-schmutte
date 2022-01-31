@@ -5,11 +5,7 @@
 <a href="mailto:tannerschmutte@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 
-- 🛠 Currently working on an app that connects tennis players via public courts
-- 🔙 Experienced backend engineer
-- 🎾 Former tennis coach, avid player
-- 🧮 B.S. Mathematical Analytics & Operations Research
-- 🤝 Looking for a new role
+- 🛠 Currently develop an in-house CRM web app for UT Austin🤘🏼
 
 #### Toolbelt
 

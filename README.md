@@ -1,7 +1,6 @@
 ## Hi, I'm Tanner 👋🏼
 
 <a href="https://www.linkedin.com/in/tannman/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://angel.co/u/tanner-schmutte"><img src="https://img.shields.io/badge/-AngelList-000000?&style=for-the-badge&logo=AngelList&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tannerschmutte@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 

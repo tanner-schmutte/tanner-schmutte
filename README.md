@@ -4,7 +4,10 @@
 <a href="mailto:tannerschmutte@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 
-- 🛠 Currently develop integrations for Procore👷
+- 🛠 I am currently developing a web app with my team at Procore👷
+- The goal here is to allow nontechnical people from other teams to handle large bulk requests like imports and updates to project data.
+- As it is, many of these requests are done by someone pointing and clicking for each item, which can be in the hundreds or even thousands.
+- We are making it so that one CSV file will accomplish the task via our web app.
 
 #### Toolbelt
 
